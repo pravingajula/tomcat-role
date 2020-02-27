@@ -1,2 +1,2 @@
 [dev]
-ansible-server-1 ansible_ssh_host=ec2-3-21-27-135.us-east-2.compute.amazonaws.com ansible_ssh_port=22 ansible_ssh_user='ec2-user'
+ansible-server-1 ansible_ssh_host=ec2-3-20-204-215.us-east-2.compute.amazonaws.com  ansible_ssh_port=22 ansible_ssh_user='ec2-user'
