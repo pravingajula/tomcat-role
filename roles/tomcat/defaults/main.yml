@@ -11,7 +11,7 @@ http_port: $ANSIBLE_VAULT;1.1;AES256
 https_port: 8443
 tomcat_user: tomcat
 tomcat_group: tomcat
-jdk_version: java-1.7.0-openjdk
+jdk_version: openjdk-8-jdk-headless
 
 
 admin_username: admin
